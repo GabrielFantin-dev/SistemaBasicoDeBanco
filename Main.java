@@ -33,9 +33,9 @@ public class Main {
 			 rodando = false;
 		}else {
 			System.out.println("Opção invalida!");
-		}
+			}
 		
-	}
+		}
 	teclado.close();
-}
+	}
 }
